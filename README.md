@@ -14,7 +14,7 @@ See more info on the [official site](http://brunch.io)
 
 ## Usage
     
-    brunch new myapp -s git://github.com/icholy/ember-brunch.git
+    brunch new myapp -s git://github.com/cbosco/ember-brunch.git
 
 if you wanted to use the `empty` skeleton branch
 
